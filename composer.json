@@ -1,0 +1,14 @@
+{
+    "name": "tony1796/myproject",
+    "description": "this my project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tony",
+            "email": "263526691@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
