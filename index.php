@@ -8,7 +8,7 @@
 
 include __DIR__ . '/frame/vendor/autoload.php';
 
-\Core\Core::run();
+\Core\core::run();
 
 
 

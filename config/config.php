@@ -8,7 +8,7 @@ return [
         'port' => '3306',
         'database' => 'christmas',
         'charset' => 'utf8',
-        'prefix' => 'txc_',
+        'prefix' => 't_',
         'dbtype' => 'mysql',
     ],
     'dbRead' => [
@@ -18,7 +18,7 @@ return [
         'port' => '3306',
         'database' => 'happynewyear',
         'charset' => 'utf8',
-        'prefix' => 'txc_',
+        'prefix' => 't_',
         'dbtype' => 'mysql',
     ],
 ];
